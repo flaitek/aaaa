@@ -1,0 +1,9 @@
+{
+  "name": "fitness-api",
+  "version": "1.0.0",
+  "description": "REST API для управления фитнес-центром — zero dependencies",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
